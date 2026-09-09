@@ -3,3 +3,4 @@ members = [
     "chapters/*",
     "exercises/*",
 ]
+resolver = "3"
